@@ -1,0 +1,56 @@
+{
+  "walk": {
+    "frameWidth": 18,
+    "frameHeight": 24,
+    "frames": 6,
+    "pivot": "head"
+  },
+  "legs": {
+    "frameWidth": 22,
+    "frameHeight": 14,
+    "frames": 6,
+    "pivot": "between feet"
+  },
+  "punch": {
+    "frameWidth": 32,
+    "frameHeight": 24,
+    "frames": 6,
+    "pivot": "head"
+  },
+  "swing": {
+    "frameWidth": 54,
+    "frameHeight": 52,
+    "frames": 5,
+    "pivot": "head"
+  },
+  "knife": {
+    "frameWidth": 28,
+    "frameHeight": 32,
+    "frames": 5,
+    "pivot": "head"
+  },
+  "pistol": {
+    "frameWidth": 54,
+    "frameHeight": 22,
+    "frames": 2,
+    "pivot": "head"
+  },
+  "pistol_fire": {
+    "frameWidth": 64,
+    "frameHeight": 20,
+    "frames": 2,
+    "pivot": "head"
+  },
+  "rifle": {
+    "frameWidth": 56,
+    "frameHeight": 20,
+    "frames": 3,
+    "pivot": "head"
+  },
+  "dead": {
+    "frameWidth": 58,
+    "frameHeight": 42,
+    "frames": 2,
+    "pivot": "centre"
+  }
+}
